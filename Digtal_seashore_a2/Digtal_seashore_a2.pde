@@ -11,8 +11,8 @@ boolean nightMode = false;  // start with Day mode
 String prompt = "Inhale...";
 boolean inhalePhase = true;
 float phaseTimer = 0;
-float inhaleDur = 4.0f;   // slower breathing (seconds)
-float exhaleDur = 7.5f;   // slower breathing (seconds)
+float inhaleDur = 5.5f;   // slower breathing (seconds)
+float exhaleDur = 5.5f;   // slower breathing (seconds)
 int prevMillis = 0;
 
 // ---- scrolling subtitles (public domain / safely usable lines) ----
